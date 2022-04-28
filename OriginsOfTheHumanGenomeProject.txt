@@ -1,6 +1,6 @@
 	Origins of the Human Genome Project
 
-The (TEST) and most (TEST2) applications of genome research are tests for genetic disorders, but less obvious diagnostic uses may prove at least as important, such as forensic uses to establish identity - 
+The (blank) and most (blank-blank) applications of genome research are tests for genetic disorders, but less obvious diagnostic uses may prove at least as important, such as forensic uses to establish identity - 
 to determine paternity, or to link (Noun) to physical evidence of crimes such as (Noun) or (Noun).
 Genome research also promises to (Verb) (Plural Noun) expeditiously, making the genetic approach attractive as a first step in the (Verb) not only of complex diseases, but also of normal biological function.
 Each new gene is a potential target for (Noun) development -- to (Verb) it when broken,
@@ -8,5 +8,3 @@ to shut it down, to (Verb) or drown its expression, or to change its product, us
 Finding a gene gives (Plural Noun) a molecular handle on problems that have proven intractable.
 
 
-
-MAKING A CHANGE HERE!!
