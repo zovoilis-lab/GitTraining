@@ -4,7 +4,11 @@ The (Adjective) and most (Adjective) applications of genome research are tests f
 to determine paternity, or to link (Noun) to physical evidence of crimes such as (Noun) or (Noun).
 Genome research also promises to (Verb) (Plural Noun) expeditiously, making the genetic approach attractive as a first step in the (Verb) not only of complex diseases, but also of normal biological function.
 Each new gene is a potential target for (Noun) development -- to (Verb) it when broken,
+<<<<<<< HEAD
+to shut it down, to run or drown its expression, or to change its product, usually a protein.
+=======
 to shut it down, to (Verb) or drown its expression, or to change its product, usually a protein.-aaa
+>>>>>>> 8787445cba6169a73e16ccc190a5c3d6cb2d6e66
 Finding a gene gives (Plural Noun) a molecular handle on problems that have proven intractable.
 
 
